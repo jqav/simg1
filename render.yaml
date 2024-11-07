@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: simg1
+    env: docker
+    plan: free
